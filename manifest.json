@@ -1,7 +1,7 @@
 {
   "name": "MansionRend",
-  "version_number": "1.0.0",
+  "version_number": "1.1.0",
   "website_url": "https://github.com/baerchen201/MansionRendPlugin",
-  "description": "Forces a mansion layout on Rend",
+  "description": "Forces a mansion layout on Rend (host-only)",
   "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
 }
