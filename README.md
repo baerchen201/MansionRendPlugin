@@ -10,4 +10,4 @@ No longer will you be tormented by Factory/Mineshaft Rend
 
 If you get a seed with a non-mansion interior, the mod will force a new seed to be generated (up to 30K times, adjustable in the config).
 
-If you get really (REALLY) unlucky, you can still get another interior, but that will never happen to you unless you have another mod messing with seed generation.u
+If you get really (REALLY) unlucky, you can still get another interior, but that will never happen to you unless you have another mod messing with seed generation.
